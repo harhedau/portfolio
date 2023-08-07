@@ -11,9 +11,10 @@
     background: #4776e6;
     background: -webkit-linear-gradient(to right, #8e54e9, #4776e6);
     background: linear-gradient(to right, #8e54e9, #4776e6);
+
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content:space-around;
   }
   
   .header,
@@ -23,7 +24,7 @@
   .header5 {
     width: 100%;
     height: 60px;
-    background: #4776e6;
+    background:#1E341F;
     box-shadow: 0 0 10px 1px;
     margin-bottom: 40px;
   }
